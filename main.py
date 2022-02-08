@@ -124,8 +124,12 @@ for i in range(num_games):
                 position_counter[player_positions[x]] += 1
                 total_landings += 1
 
+# calculates total percentage of times a spot was landed on
 scaled_counter = [ x / total_landings for x in position_counter]
 
+
+
+#Plotting our data with matplotlib
 
 plt.rcdefaults()
 fig, ax = plt.subplots()
