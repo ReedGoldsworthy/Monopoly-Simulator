@@ -7,6 +7,6 @@ The program utilizes the Matplotlib library to visualize the findings.
 run main.py
 
 # Example output
-##### Keep in mind, numbers may vary due to the nature of the simulation.
+The numbers may vary slightly each run due to the nature of the Monte Carlo method. Jail is by far the most landed on space. This makes sense, due to the amount of game mechanics which send you to the jail square. 
 ![image](https://user-images.githubusercontent.com/59662986/183808186-b4846e91-1c8f-48ef-961e-7bbba106693d.png)
 
