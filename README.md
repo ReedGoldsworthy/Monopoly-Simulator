@@ -7,6 +7,6 @@ The program utilizes the Matplotlib library to visualize the findings.
 run main.py
 
 # Example output
-### Keep in mind, numbers may vary due to the nature of the simulation.
+##### Keep in mind, numbers may vary due to the nature of the simulation.
 ![image](https://user-images.githubusercontent.com/59662986/183808186-b4846e91-1c8f-48ef-961e-7bbba106693d.png)
 
